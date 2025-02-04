@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+My name is Atithi, and I’m a business analytics grad who loves diving into data analysis and working with Python.
+
 - 🔭 I’m currently working on Data analysis, machine learning models, and data cleaning projects.
 - 🌱 I’m currently learning Deep learning and model deployment (AWS, GCP)
 - 👯 I’m looking to collaborate on Open-source data science or AI/ML projects.
