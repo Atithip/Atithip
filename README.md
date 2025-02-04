@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Data analysis, machine learning models, and data cleaning projects.
+- 🌱 I’m currently learning Deep learning and model deployment (AWS, GCP)
+- 👯 I’m looking to collaborate on Open-source data science or AI/ML projects.
 
 <!--
 **Atithip/Atithip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
